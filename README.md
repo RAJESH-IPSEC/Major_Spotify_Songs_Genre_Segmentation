@@ -1,13 +1,14 @@
 # Major_Spotify_Songs_Genre_Segmentation
 Since 2006, Spotify grew to 381M users, 172M paid. Our Python-driven project explores music data, analyzing audio features and sentiment. Leveraging Spotify and LyricWikiAPI, it hones analytical skills, unveiling music's impact through data-driven insights.
-## Importing Datasets
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-## DataSet Given by CORIZO
+Python libraries:
+* import numpy as np
+* import pandas as pd
+* import matplotlib.pyplot as plt
+* import seaborn as sns
+This dataset is openly accessible and was downloaded from Github, which is provided by CORIZO.
 ## Data columns (total 23 columns):
-
+|# |Column |Non-Null Count|Dtype|
+|:-|:-|:-|:-|
  #   Column             Non-Null Count  Dtype  
 ---  ------             --------------  -----  
  0   track_id           32833 non-null  object 
