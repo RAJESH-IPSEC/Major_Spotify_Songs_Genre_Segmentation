@@ -10,7 +10,6 @@ This dataset is openly accessible and was downloaded from Github, which is provi
 |# |Column |Non-Null Count|Dtype|
 |:-|:-|:-|:-|
  | #   | Column            | Non-Null Count | Dtype   |
-|-----|-------------------|----------------|---------|
 | 0   | track_id          | 32833          | object  |
 | 1   | track_name        | 32828          | object  |
 | 2   | track_artist      | 32828          | object  |
